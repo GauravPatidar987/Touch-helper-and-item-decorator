@@ -1,0 +1,14 @@
+[
+  {
+    "artifactId": "recyclerview",
+    "excludes": [],
+    "groupId": "androidx.recyclerview",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "dexter",
+    "excludes": [],
+    "groupId": "com.karumi",
+    "versionName": "6.2.2"
+  }
+]
